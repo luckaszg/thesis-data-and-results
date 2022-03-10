@@ -1,0 +1,12 @@
+cff-version: 1.0
+message: "If you use this pdf, please cite it as below."
+authors:
+  - family-name: Barán
+    given-name: Benjamín
+
+  - family-name: Guerrero
+	given-name: Lucas
+
+title: "Data and Results for <<Ubicación de casilleros para comercio electrónico. Un enfoque multiobjetivo>> research"
+version: 1.0
+date-released: 2022-03-09
